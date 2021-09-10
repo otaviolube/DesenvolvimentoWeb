@@ -1,0 +1,23 @@
+header{
+    width: 100%;
+    height: 150px;
+    background-color: darkkhaki;
+    text-align: center;
+}
+h1{
+    color: crimson;
+    position: relative;
+    margin: auto;
+}
+#menu{
+    background-color: darkmagenta;
+}
+main{
+    background-color: darkorange;
+}
+footer{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    background-color: darkturquoise;
+}
