@@ -85,3 +85,7 @@ footer{
 #copyright p{
     font-size:  xx-small;
 }
+
+form input{
+    display: block;
+}
